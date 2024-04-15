@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "googleapis": "^134.0.0",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.1",
+    "qrcode-terminal": "^0.12.0",
+    "stream": "^0.0.2",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#webpack-exodus",
+    "wwebjs-mongo": "^1.1.0"
+  }
+}
